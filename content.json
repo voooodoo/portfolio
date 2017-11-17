@@ -1,0 +1,13 @@
+{
+  "skills" : [
+    {
+      "Frontend" : ["HTML 5", "CSS 3", "JS"]
+    },
+    {
+      "Backend" : [4, 5 , 6, 7]
+    },   
+    {
+      "Workflow" : [8, 9, 10]
+    } 
+  ]   
+}
